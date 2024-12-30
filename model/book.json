@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6d3f6d7e-ec5e-40f8-b906-a3b663cb7f64",
+    "title": "Computer Organization and Design",
+    "author": "David A. Patterson, John L. Hennessy",
+    "isbn": "9780124077263",
+    "category": "Computer Architecture",
+    "publishedYear": 2013,
+    "u_id": "ae010c77-5606-4548-8a82-3d5a9906db56"
+  },
+  {
+    "id": "d1a50970-62e7-44a4-8cb7-898070b9976b",
+    "title": "Introduction to Computer Science",
+    "author": "J. Glenn Brookshear",
+    "isbn": "9780133760064",
+    "category": "Computer Science",
+    "publishedYear": 2014,
+    "u_id": "8a08dbc5-38ec-4677-80de-8b31bcd0644e"
+  }
+]
